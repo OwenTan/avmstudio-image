@@ -8,7 +8,7 @@
 
 1、进入管理中心操作
 
-![5.1.1](./image/5.1.1.png) 
+![5.1.1](http://192.168.10.10:2015/jack/avm-studio-image/raw/master/image/5.1.1.png) 
 
 2、打开10.1寸触摸屏，进入主界面 
      
